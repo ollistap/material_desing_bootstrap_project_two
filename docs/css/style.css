@@ -14,12 +14,6 @@ main .container {
 	padding-bottom: 50px;
 }
 
-footer .container {
-	background-color: white;
-	opacity: 1;
-	padding-top: 20px;
-	padding-bottom: 50px;
-}
 .img-fluid {
 	height: 350px;
 }
